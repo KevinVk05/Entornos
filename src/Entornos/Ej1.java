@@ -7,6 +7,7 @@ public class Ej1 {
 			System.out.println(i);
 		}
 		System.out.println("Hasta otra");
+		System.out.println("Esta es la rama secundaria");
 	}
 
 }
